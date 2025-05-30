@@ -14,7 +14,7 @@ Blockchain
 
 ## 🔗 Enlaces útiles
 
-- API: `http://bighive-beets.io
+- API: 
 - Explorador: `https://explorer.bighive.org`
 - Whitepaper: `docs/whitepaper.pdf`
 
